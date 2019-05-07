@@ -1,0 +1,1 @@
+stm32f4_usbvcp_stlinkvcp_gyro\startup_stm32f429xx.o: startup_stm32f429xx.s
